@@ -10,19 +10,19 @@ const uint16_t PROGMEM plus_combo[] = {KC_7, KC_L, COMBO_END};
 const uint16_t PROGMEM astr_combo[] = {KC_8, KC_U, COMBO_END};
 const uint16_t PROGMEM ampr_combo[] = {KC_9, KC_Y, COMBO_END};
 
-const uint16_t PROGMEM lbrc_combo[] = {KC_W, KC_R, COMBO_END};
+const uint16_t PROGMEM tild_combo[] = {KC_W, KC_R, COMBO_END};
 const uint16_t PROGMEM lcbr_combo[] = {KC_F, KC_S, COMBO_END};
 const uint16_t PROGMEM lprn_combo[] = {KC_P, KC_T, COMBO_END};
-const uint16_t PROGMEM labk_combo[] = {KC_B, KC_G, COMBO_END};
-const uint16_t PROGMEM rabk_combo[] = {KC_J, KC_M, COMBO_END};
+const uint16_t PROGMEM lbrc_combo[] = {KC_B, KC_G, COMBO_END};
+const uint16_t PROGMEM rbrc_combo[] = {KC_J, KC_M, COMBO_END};
 const uint16_t PROGMEM rprn_combo[] = {KC_L, KC_N, COMBO_END};
 const uint16_t PROGMEM rcbr_combo[] = {KC_U, KC_E, COMBO_END};
-const uint16_t PROGMEM rbrc_combo[] = {KC_Y, KC_I, COMBO_END};
+const uint16_t PROGMEM exlm_combo[] = {KC_Y, KC_I, COMBO_END};
 
 const uint16_t PROGMEM bsls_combo[] = {KC_S, KC_C, COMBO_END};
 const uint16_t PROGMEM eql_combo[]  = {KC_T, KC_D, COMBO_END};
-const uint16_t PROGMEM tild_combo[] = {KC_G, KC_V, COMBO_END};
-const uint16_t PROGMEM exlm_combo[] = {KC_M, KC_K, COMBO_END};
+const uint16_t PROGMEM labk_combo[] = {KC_G, KC_V, COMBO_END};
+const uint16_t PROGMEM rabk_combo[] = {KC_M, KC_K, COMBO_END};
 const uint16_t PROGMEM mins_combo[] = {KC_N, KC_H, COMBO_END};
 const uint16_t PROGMEM pipe_combo[] = {KC_E, KC_COMM, COMBO_END};
 
