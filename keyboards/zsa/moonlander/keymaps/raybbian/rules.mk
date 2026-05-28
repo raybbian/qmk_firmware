@@ -1,0 +1,2 @@
+COMBO_ENABLE = yes
+NKRO_ENABLE = yes
